@@ -12,6 +12,9 @@
         android:theme="@style/Theme.M213ch04tp01trainees"
         tools:targetApi="31">
         <activity
+            android:name=".Ex05Activity"
+            android:exported="false" />
+        <activity
             android:name=".Ex04Activity"
             android:exported="false" />
         <activity
